@@ -4,7 +4,7 @@ using namespace std;
 
 int main() {
 
-	cout << "MainFunction" << endl;
+	cout << "Welcome to main branch" << endl;
 
 	system("pause");
 }
